@@ -1,3 +1,8 @@
-## Omni - the United Future of Ethereum
+## Omni
 
-Omni is an infrastructure layer for Ethereum that empowers developers to build applications across all rollups without fragmenting liquidity. Read more at our [documentation portal](https://docs.omni.network)!
+Access all of the users and liquidity in the Ethereum ecosystem without smart contract upgrades.
+
+Learn more at the following resources:
+- [website](https://omni.network)
+- [documentation](https://docs.omni.network)
+- [monorepo](https://github.com/omni-network/omni)
