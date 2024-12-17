@@ -1,8 +1,5 @@
 ## Omni
 
-Access all of the users and liquidity in the Ethereum ecosystem without smart contract upgrades.
+We make the Ethereum ecosystem feel like a single chain again.
 
-Learn more at the following resources:
-- [website](https://omni.network)
-- [documentation](https://docs.omni.network)
-- [monorepo](https://github.com/omni-network/omni)
+Learn more at our [website](https://omni.network), [documentation](https://docs.omni.network), or [monorepo](https://github.com/omni-network/omni).
